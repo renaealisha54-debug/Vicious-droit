@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">droitforge</string>
+    <string name="title_activity_main">droitforge</string>
+    <string name="package_name">com.yourname.droitforge</string>
+    <string name="custom_url_scheme">com.yourname.droitforge</string>
+</resources>
